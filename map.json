@@ -465,19 +465,19 @@
         {
          "name":"mapDescription",
          "type":"string",
-         "value":"A perfect map for your team buildings or creative events. 3 meeting rooms, 5 spaces with 5 different ambiences, an art area, a game zone, a music place...\n\nSuitable from 20 to 60 people."
+         "value":"Suitable for up to 50 users.\n\nA perfect map for your team buildings or creative events. 3 meeting rooms, 5 spaces with 5 different ambiences, an art area, a game zone, a music place..."
         }, 
         {
          "name":"mapImage",
          "type":"string",
          "value":"map.png"
-        }, 
-        {
-         "name":"mapLink",
-         "type":"string",
-         "value":"https:\/\/github.com\/gparant\/tcm-client\/tree\/master\/TCM\/team-building"
-        }, 
-        {
+        },
+   {
+     "name":"mapLink",
+     "type":"string",
+     "value":"https:\/\/workadventure.github.io\/scripting-api-extra\/map.json"
+   },
+   {
          "name":"mapName",
          "type":"string",
          "value":"Team Building"
